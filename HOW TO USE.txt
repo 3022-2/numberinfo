@@ -1,0 +1,57 @@
+open code folder
+
+goto https://www.reversephonelookup.com/number/7149967075/
+
+inspect element
+
+network tab
+
+reload
+
+in filter search 7149967075
+
+first option
+
+copy request headers NOT RESPONSE HEADERS
+
+goto chatgpt
+
+type turn this into headers = {}, and paste the headers below
+
+allow it to format
+
+copy the code
+
+open main.py and main_threaded.py in text editor
+
+paste in as headers
+
+	-if headers has this part when generated
+	":authority": "www.reversephonelookup.com",
+    	":method": "GET",
+    	":path": "/number/7149967075/",
+    	":scheme": "https",
+
+	remove the colons before authority, method, 	path, scheme to look like this:
+	"authority": "www.reversephonelookup.com",
+    	"method": "GET",
+    	"path": "/number/7149967075/",
+    	"scheme": "https",
+
+	use this otherwise code breaks
+
+save the files
+
+goto terminal in same folder as main.py
+
+type: pip install -r .\requirements.txt
+
+press enter
+
+type cls and enter
+
+type python main.py and enter
+
+now use the code as you wish
+
+some phone formats return just AT&T, some return other carriers, some return a mix of both - im not very knowledgeable on US phone numbers and how they work
