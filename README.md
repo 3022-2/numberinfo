@@ -53,6 +53,14 @@ credit to song in video guide: [here](https://www.youtube.com/watch?v=H_d42ZSB7P
 
 [Click here to watch the video guide](https://vimeo.com/924837860)
 
+## Legal Compliance and Responsible Use
+
+It's important to note that while this tool utilizes web scraping to gather information, the website's terms of use may not explicitly address this method of data collection. As such, it's crucial for users to ensure that their use of this tool complies with all applicable laws and regulations regarding web scraping, data privacy, and unauthorized access to websites.
+Web scraping activities can sometimes fall into legally gray areas, and misuse of this tool could potentially lead to legal consequences. Therefore, users are strongly advised to use this tool responsibly and ethically, respecting the rights of website owners and adhering to all relevant legal requirements.
+By using this tool, you agree to assume full responsibility for your actions and to comply with all applicable laws and regulations in your jurisdiction. The creator of this tool shall not be held liable for any misuse or illegal activities conducted by users.
+If you have any questions or concerns about the legal implications of web scraping or the use of this tool, it is recommended to seek legal advice from a qualified professional.
+
+
 contact: 3011889@proton.me
 
 "halal gotye has cured my schizophrenia"
