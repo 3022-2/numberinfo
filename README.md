@@ -8,6 +8,13 @@ A program written in python to bulk check the owners of generated US phone numbe
   - generating to fill in trailing zeros. For example if the number is 1234567000, it will check 1234567001, 1234567002, 1234567003 and so on till it hits 1234567999.
   - generating from a text file in the format 0000000000 in phonenumbers.txt. It will go through each number till it hits the last number on the list.
 
+features
+  - supports asyncio threading with optional delay.
+  - gets data from [https://www.reversephonelookup.com/](https://www.reversephonelookup.com/)
+  - gets name, address, carrier type and saves to text file within data directory
+  - sorts AT&T into seperate file called AT&T_data.txt and other carriers into file called non_AT&T_data.txt
+  - 
+
 
 
 
