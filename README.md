@@ -1,5 +1,7 @@
 # numberinfo
 
+When running the code it says "dont forget to reset the headers before every use", this is a half truth. You only really need to reset headers if your on a new internet connection, headers being blocked, ip being blocked. Otherwise if i set headers one day and run it and then the next day set headers and run it on the same wifi it should work granted the ip/header hasnt been blocked
+
 DISCLAIMER: This tool is for educational and non-illigal purposes only, I am not responsible for its use.
 
 LICENSE: This program is protected under MIT License, Respect it.
