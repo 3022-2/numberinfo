@@ -23,7 +23,7 @@ fetures i might add if i can be asked
   - name/address lookup (to get furthered info on the people found)
 
 
-
+this is a simulated example
 
 https://github.com/3022-2/numberinfo/assets/82278708/8a4ea9d1-e798-44a0-b093-1fc3ae977196
 
