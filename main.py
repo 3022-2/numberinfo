@@ -10,7 +10,6 @@ import os
 
 headers = {}
 
-
 cwd = os.getcwd()
 
 init(autoreset=True)
