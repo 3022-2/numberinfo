@@ -1,16 +1,18 @@
 # numberinfo
 
+A program written in python to bulk check the owners of generated US phone numbers without using an API, Instead it uses web scraping. 
+----
 When running the code it says "dont forget to reset the headers before every use", this is a half truth. You only really need to reset headers if your on a new internet connection, headers being blocked, ip being blocked. Otherwise if i set headers one day and run it and then the next day set headers and run it on the same wifi it should work granted the ip/header hasnt been blocked
-
+----
 DISCLAIMER: This tool is for educational purposes only, I am not responsible for its use. Check the license for more info.
 LICENSE: This program is protected under the apache 2.0 License, Respect it.
+----
 
-A program written in python to bulk check the owners of generated US phone numbers without using an API, Instead it uses web scraping. 
 
 These numbers can be generated in two ways. 
   - generating to fill in trailing zeros. For example if the number is 1234567000, it will check 1234567001, 1234567002, 1234567003 and so on till it hits 1234567999.
   - generating from a text file in the format 0000000000 in phonenumbers.txt. It will go through each number till it hits the last number on the list.
-
+----
 features
   - supports asyncio threading with optional delay.
   - gets data from [https://www.reversephonelookup.com/](https://www.reversephonelookup.com/) (this website is relitivly reliable when it comes to accurate phone info however not all are accurate)
@@ -21,8 +23,7 @@ fetures i might add if i can be asked
   - proxy rotating for 403 status codes that cant be fixed with a simple header update
   - verification with another phone lookup website
   - name/address lookup (to get furthered info on the people found)
-
-
+----
 this is a simulated example
 
 https://github.com/3022-2/numberinfo/assets/82278708/8a4ea9d1-e798-44a0-b093-1fc3ae977196
