@@ -4,16 +4,22 @@ DISCLAIMER: This tool is for educational and non-illigal purposes only, I am not
 
 LICENSE: This program is protected under MIT License, Respect it.
 
-A program written in python to bulk check the owners of generated US phone numbers. These numbers can be generated in two ways. 
+A program written in python to bulk check the owners of generated US phone numbers without using an API. 
+
+These numbers can be generated in two ways. 
   - generating to fill in trailing zeros. For example if the number is 1234567000, it will check 1234567001, 1234567002, 1234567003 and so on till it hits 1234567999.
   - generating from a text file in the format 0000000000 in phonenumbers.txt. It will go through each number till it hits the last number on the list.
 
 features
   - supports asyncio threading with optional delay.
-  - gets data from [https://www.reversephonelookup.com/](https://www.reversephonelookup.com/)
+  - gets data from [https://www.reversephonelookup.com/](https://www.reversephonelookup.com/) (this website is relitivly reliable when it comes to accurate phone info however not all are accurate)
   - gets name, address, carrier type and saves to text file within data directory
   - sorts AT&T into seperate file called AT&T_data.txt and other carriers into file called non_AT&T_data.txt
-  - 
+
+fetures i might add if i can be asked
+  - proxy rotating for 403 status codes that cant be fixed with a simple header update
+  - verification with another phone lookup website
+  - name/address lookup (to get furthered info on the people found)
 
 
 
