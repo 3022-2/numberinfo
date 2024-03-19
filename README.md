@@ -17,3 +17,4 @@ $ pip install -r ./requirements.txt
 $ python main.py
 
 ```
+credit to song in video guide: [here](https://www.youtube.com/watch?v=H_d42ZSB7Pg) - "halal gotye has cured my schizophrenia"
