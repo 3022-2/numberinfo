@@ -21,6 +21,6 @@ $ pip install -r ./requirements.txt
 $ python main.py
 
 ```
-[![video guide](https://vimeo.com/924837860)](https://vimeo.com/924837860)
+[![video guide](https://i.imgur.com/FC2A7S4.png)](https://vimeo.com/924837860)
 
 credit to song in video guide: [here](https://www.youtube.com/watch?v=H_d42ZSB7Pg) - "halal gotye has cured my schizophrenia"
