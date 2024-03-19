@@ -4,7 +4,7 @@ When running the code it says "dont forget to reset the headers before every use
 
 DISCLAIMER: This tool is for educational and non-illigal purposes only, I am not responsible for its use.
 
-LICENSE: This program is protected under MIT License, Respect it.
+LICENSE: This program is protected under the apache 2.0 License, Respect it.
 
 A program written in python to bulk check the owners of generated US phone numbers without using an API. 
 
