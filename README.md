@@ -4,7 +4,7 @@ DISCLAIMER: This tool is for educational and non-illigal purposes only, I am not
 
 LICENSE: This program is protected under MIT License, Respect it.
 
-A program written in python to bulk check the owner of generated US phone numbers.
+A program written in python to bulk check the owners of generated US phone numbers. These numbers can be generated from a text file in the format 0000000000 or
 
 
 
