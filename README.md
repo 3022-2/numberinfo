@@ -7,8 +7,7 @@ LICENSE: This program is protected under MIT License, Respect it.
 A program written in python to bulk check the owner of generated US phone numbers.
 
 
-
-https://github.com/3022-2/numberinfo/assets/82278708/0c55ade0-bbab-450f-8220-bb532d095afe
+https://github.com/3022-2/numberinfo/assets/82278708/90f6a4d3-d16e-4b5d-8604-986af861cbbd
 
 
 
