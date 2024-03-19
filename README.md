@@ -2,11 +2,10 @@
 
 When running the code it says "dont forget to reset the headers before every use", this is a half truth. You only really need to reset headers if your on a new internet connection, headers being blocked, ip being blocked. Otherwise if i set headers one day and run it and then the next day set headers and run it on the same wifi it should work granted the ip/header hasnt been blocked
 
-DISCLAIMER: This tool is for educational and non-illigal purposes only, I am not responsible for its use.
-
+DISCLAIMER: This tool is for educational purposes only, I am not responsible for its use. Check the license for more info.
 LICENSE: This program is protected under the apache 2.0 License, Respect it.
 
-A program written in python to bulk check the owners of generated US phone numbers without using an API. 
+A program written in python to bulk check the owners of generated US phone numbers without using an API, Instead it uses web scraping. 
 
 These numbers can be generated in two ways. 
   - generating to fill in trailing zeros. For example if the number is 1234567000, it will check 1234567001, 1234567002, 1234567003 and so on till it hits 1234567999.
