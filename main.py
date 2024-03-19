@@ -9,6 +9,7 @@ import os
 #before running for the first time remember to set your headers
 
 headers = {}
+
 cwd = os.getcwd()
 
 init(autoreset=True)
