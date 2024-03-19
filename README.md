@@ -1,11 +1,10 @@
 # numberinfo
 
 ```console
-
 # How to Install & run
 
 # Clone the repo
-$ git clone https://github.com/3022-2/spotitube.git
+$ git clone https://github.com/3022-2/numberinfo.git
 
 # watch the how to use video and set headers
 
