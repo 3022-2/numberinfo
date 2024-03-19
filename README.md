@@ -1,5 +1,9 @@
 # numberinfo
 
+DISCLAIMER: This tool is for educational and non-illigal purposes only, I am not responsible for its use.
+
+LICENSE: This program is protected under MIT License, Respect it.
+
 ```console
 # How to Install & run
 
