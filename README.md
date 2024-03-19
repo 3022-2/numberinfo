@@ -23,6 +23,6 @@ $ python main.py
 ```
 credit to song in video guide: [here](https://www.youtube.com/watch?v=H_d42ZSB7Pg) - "halal gotye has cured my schizophrenia"
 
-[Click here to watch the video](https://vimeo.com/924837860)
+[Click here to watch the video guide](https://vimeo.com/924837860)
 
 
