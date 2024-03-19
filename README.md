@@ -19,7 +19,7 @@ features
   - gets name, address, carrier type and saves to text file within data directory
   - sorts AT&T into seperate file called AT&T_data.txt and other carriers into file called non_AT&T_data.txt
 
-fetures i might add if i can be asked
+features i might add if i can be asked
   - proxy rotating for 403 status codes that cant be fixed with a simple header update
   - verification with another phone lookup website
   - name/address lookup (to get furthered info on the people found)
