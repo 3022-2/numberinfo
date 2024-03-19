@@ -24,4 +24,3 @@ $ python main.py
 [![video guide](https://i.imgur.com/FC2A7S4.png)](https://player.vimeo.com/video/924837860?h=287ad605c3 "video guide")
 
 credit to song in video guide: [here](https://www.youtube.com/watch?v=H_d42ZSB7Pg) - "halal gotye has cured my schizophrenia"
-<iframe width="560" height="315" src="https://player.vimeo.com/video/924837860?h=287ad605c3" frameborder="0" allowfullscreen></iframe>
