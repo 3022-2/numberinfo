@@ -2,6 +2,10 @@
 
 A program written in python to bulk check the owners of generated US phone numbers without using an API, Instead it uses web scraping. 
 ----
+[Click here to watch the video guide](https://vimeo.com/924837860)
+
+credit to song in video guide: [here](https://www.youtube.com/watch?v=H_d42ZSB7Pg)
+
 When running the code it says "dont forget to reset the headers before every use", this is a half truth. You only really need to reset headers if your on a new internet connection, headers being blocked, ip being blocked. Otherwise if i set headers one day and run it and then the next day set headers and run it on the same wifi it should work granted the ip/header hasnt been blocked
 ----
 DISCLAIMER: This tool is provided for educational purposes only. I, as the creator, do not condone or support any misuse of this tool for illegal or unethical activities. It is your responsibility as a user to ensure that your use of this tool complies with all applicable laws and regulations in your jurisdiction. By using this tool, you agree that I shall not be held liable for any consequences arising from your use of the tool, including but not limited to any legal actions or damages incurred. Please use this tool responsibly and ethically.
